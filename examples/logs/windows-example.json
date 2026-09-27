@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "description": "Simplified event fields, not a complete Windows event export",
+  "host": "LAB-CLIENT",
+  "event_id": 4625,
+  "account": "demo-user",
+  "source_address": "198.51.100.20",
+  "logon_type": 3,
+  "question": "What additional events are needed to distinguish an authentication error from a password attack?"
+}
